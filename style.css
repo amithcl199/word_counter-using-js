@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   background-color: #c5afaf;;
+        
+   
+}
+body{
+    padding: 50px 100px;
+}
+h1{
+    text-align: center;
+    background-color: #0067B0;
+    color: white;
+    padding: 10px;
+    margin: 0px;
+}
+
+#textbox{
+    width: 100%;
+    border-color: #0067B0;
+    font-size: 18px;
+}
+
+p{
+    text-align: center;
+    background-color: #0067B0;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    margin: 0px;
+}
